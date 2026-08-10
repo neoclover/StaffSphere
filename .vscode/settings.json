@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/*.jar",
+        "Employee Management/lib/*.jar",
+        "e:/Employee Management/Employee Management/lib/*.jar"
+    ]
+}

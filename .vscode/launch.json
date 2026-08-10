@@ -1,0 +1,22 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "HomePage",
+            "request": "launch",
+            "mainClass": "Employee_Management.HomePage",
+            "projectName": "Employee Management_bb2b7c7b"
+        },
+        {
+            "type": "java",
+            "name": "Run Employee System (LoginPage)",
+            "request": "launch",
+            "mainClass": "Employee_Management.LoginPage",
+            "classPaths": [
+                "${workspaceFolder}/Employee Management/out",
+                "${workspaceFolder}/Employee Management/lib/*"
+            ]
+        }
+    ]
+}
